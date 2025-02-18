@@ -1,0 +1,418 @@
+{
+  "American Foods": [
+    {
+      "original": "burger",
+      "scrambled": "bergur",
+      "qr_code_path": "qr_codes/American_Foods_burger.png"
+    },
+    {
+      "original": "hotdog",
+      "scrambled": "htgodo",
+      "qr_code_path": "qr_codes/American_Foods_hotdog.png"
+    },
+    {
+      "original": "pizza",
+      "scrambled": "paizz",
+      "qr_code_path": "qr_codes/American_Foods_pizza.png"
+    },
+    {
+      "original": "bacon",
+      "scrambled": "banoc",
+      "qr_code_path": "qr_codes/American_Foods_bacon.png"
+    },
+    {
+      "original": "waffle",
+      "scrambled": "wleaff",
+      "qr_code_path": "qr_codes/American_Foods_waffle.png"
+    },
+    {
+      "original": "cookie",
+      "scrambled": "ckoeio",
+      "qr_code_path": "qr_codes/American_Foods_cookie.png"
+    },
+    {
+      "original": "bagel",
+      "scrambled": "belga",
+      "qr_code_path": "qr_codes/American_Foods_bagel.png"
+    },
+    {
+      "original": "nachos",
+      "scrambled": "nshaco",
+      "qr_code_path": "qr_codes/American_Foods_nachos.png"
+    },
+    {
+      "original": "pretzel",
+      "scrambled": "pltezer",
+      "qr_code_path": "qr_codes/American_Foods_pretzel.png"
+    },
+    {
+      "original": "donut",
+      "scrambled": "dontu",
+      "qr_code_path": "qr_codes/American_Foods_donut.png"
+    }
+  ],
+  "NFL Teams": [
+    {
+      "original": "bears",
+      "scrambled": "bsare",
+      "qr_code_path": "qr_codes/NFL_Teams_bears.png"
+    },
+    {
+      "original": "lions",
+      "scrambled": "linos",
+      "qr_code_path": "qr_codes/NFL_Teams_lions.png"
+    },
+    {
+      "original": "rams",
+      "scrambled": "rmsa",
+      "qr_code_path": "qr_codes/NFL_Teams_rams.png"
+    },
+    {
+      "original": "giants",
+      "scrambled": "gistna",
+      "qr_code_path": "qr_codes/NFL_Teams_giants.png"
+    },
+    {
+      "original": "eagles",
+      "scrambled": "eglase",
+      "qr_code_path": "qr_codes/NFL_Teams_eagles.png"
+    },
+    {
+      "original": "browns",
+      "scrambled": "bnwsro",
+      "qr_code_path": "qr_codes/NFL_Teams_browns.png"
+    },
+    {
+      "original": "ravens",
+      "scrambled": "rneasv",
+      "qr_code_path": "qr_codes/NFL_Teams_ravens.png"
+    },
+    {
+      "original": "saints",
+      "scrambled": "ssatin",
+      "qr_code_path": "qr_codes/NFL_Teams_saints.png"
+    },
+    {
+      "original": "chiefs",
+      "scrambled": "cshife",
+      "qr_code_path": "qr_codes/NFL_Teams_chiefs.png"
+    },
+    {
+      "original": "jets",
+      "scrambled": "jste",
+      "qr_code_path": "qr_codes/NFL_Teams_jets.png"
+    }
+  ],
+  "NBA Teams": [
+    {
+      "original": "bulls",
+      "scrambled": "blslu",
+      "qr_code_path": "qr_codes/NBA_Teams_bulls.png"
+    },
+    {
+      "original": "heat",
+      "scrambled": "haet",
+      "qr_code_path": "qr_codes/NBA_Teams_heat.png"
+    },
+    {
+      "original": "hawks",
+      "scrambled": "hwkas",
+      "qr_code_path": "qr_codes/NBA_Teams_hawks.png"
+    },
+    {
+      "original": "kings",
+      "scrambled": "knisg",
+      "qr_code_path": "qr_codes/NBA_Teams_kings.png"
+    },
+    {
+      "original": "knicks",
+      "scrambled": "kskinc",
+      "qr_code_path": "qr_codes/NBA_Teams_knicks.png"
+    },
+    {
+      "original": "magic",
+      "scrambled": "mciga",
+      "qr_code_path": "qr_codes/NBA_Teams_magic.png"
+    },
+    {
+      "original": "nets",
+      "scrambled": "ntes",
+      "qr_code_path": "qr_codes/NBA_Teams_nets.png"
+    },
+    {
+      "original": "lakers",
+      "scrambled": "lkesra",
+      "qr_code_path": "qr_codes/NBA_Teams_lakers.png"
+    },
+    {
+      "original": "suns",
+      "scrambled": "ssnu",
+      "qr_code_path": "qr_codes/NBA_Teams_suns.png"
+    },
+    {
+      "original": "jazz",
+      "scrambled": "jzaz",
+      "qr_code_path": "qr_codes/NBA_Teams_jazz.png"
+    }
+  ],
+  "Car Brands": [
+    {
+      "original": "ford",
+      "scrambled": "fdor",
+      "qr_code_path": "qr_codes/Car_Brands_ford.png"
+    },
+    {
+      "original": "honda",
+      "scrambled": "hnado",
+      "qr_code_path": "qr_codes/Car_Brands_honda.png"
+    },
+    {
+      "original": "toyota",
+      "scrambled": "ttyaoo",
+      "qr_code_path": "qr_codes/Car_Brands_toyota.png"
+    },
+    {
+      "original": "jeep",
+      "scrambled": "jepe",
+      "qr_code_path": "qr_codes/Car_Brands_jeep.png"
+    },
+    {
+      "original": "dodge",
+      "scrambled": "dgeod",
+      "qr_code_path": "qr_codes/Car_Brands_dodge.png"
+    },
+    {
+      "original": "kia",
+      "scrambled": "kai",
+      "qr_code_path": "qr_codes/Car_Brands_kia.png"
+    },
+    {
+      "original": "nissan",
+      "scrambled": "nsains",
+      "qr_code_path": "qr_codes/Car_Brands_nissan.png"
+    },
+    {
+      "original": "chevy",
+      "scrambled": "chyve",
+      "qr_code_path": "qr_codes/Car_Brands_chevy.png"
+    },
+    {
+      "original": "lexus",
+      "scrambled": "lsxeu",
+      "qr_code_path": "qr_codes/Car_Brands_lexus.png"
+    },
+    {
+      "original": "volvo",
+      "scrambled": "vlvoo",
+      "qr_code_path": "qr_codes/Car_Brands_volvo.png"
+    }
+  ],
+  "Colors": [
+    {
+      "original": "blue",
+      "scrambled": "beul",
+      "qr_code_path": "qr_codes/Colors_blue.png"
+    },
+    {
+      "original": "green",
+      "scrambled": "grene",
+      "qr_code_path": "qr_codes/Colors_green.png"
+    },
+    {
+      "original": "purple",
+      "scrambled": "prulpe",
+      "qr_code_path": "qr_codes/Colors_purple.png"
+    },
+    {
+      "original": "yellow",
+      "scrambled": "yoelwl",
+      "qr_code_path": "qr_codes/Colors_yellow.png"
+    },
+    {
+      "original": "orange",
+      "scrambled": "onrega",
+      "qr_code_path": "qr_codes/Colors_orange.png"
+    },
+    {
+      "original": "brown",
+      "scrambled": "borwn",
+      "qr_code_path": "qr_codes/Colors_brown.png"
+    },
+    {
+      "original": "black",
+      "scrambled": "bclka",
+      "qr_code_path": "qr_codes/Colors_black.png"
+    },
+    {
+      "original": "white",
+      "scrambled": "wehti",
+      "qr_code_path": "qr_codes/Colors_white.png"
+    },
+    {
+      "original": "pink",
+      "scrambled": "pkni",
+      "qr_code_path": "qr_codes/Colors_pink.png"
+    },
+    {
+      "original": "red",
+      "scrambled": "rde",
+      "qr_code_path": "qr_codes/Colors_red.png"
+    }
+  ],
+  "Electronics": [
+    {
+      "original": "phone",
+      "scrambled": "peohn",
+      "qr_code_path": "qr_codes/Electronics_phone.png"
+    },
+    {
+      "original": "laptop",
+      "scrambled": "lpotap",
+      "qr_code_path": "qr_codes/Electronics_laptop.png"
+    },
+    {
+      "original": "tablet",
+      "scrambled": "tlaebt",
+      "qr_code_path": "qr_codes/Electronics_tablet.png"
+    },
+    {
+      "original": "camera",
+      "scrambled": "carame",
+      "qr_code_path": "qr_codes/Electronics_camera.png"
+    },
+    {
+      "original": "router",
+      "scrambled": "rrteou",
+      "qr_code_path": "qr_codes/Electronics_router.png"
+    },
+    {
+      "original": "speaker",
+      "scrambled": "seeprka",
+      "qr_code_path": "qr_codes/Electronics_speaker.png"
+    },
+    {
+      "original": "mouse",
+      "scrambled": "musoe",
+      "qr_code_path": "qr_codes/Electronics_mouse.png"
+    },
+    {
+      "original": "keyboard",
+      "scrambled": "korabyed",
+      "qr_code_path": "qr_codes/Electronics_keyboard.png"
+    },
+    {
+      "original": "printer",
+      "scrambled": "pienrrt",
+      "qr_code_path": "qr_codes/Electronics_printer.png"
+    },
+    {
+      "original": "monitor",
+      "scrambled": "monorti",
+      "qr_code_path": "qr_codes/Electronics_monitor.png"
+    }
+  ],
+  "TV Channels": [
+    {
+      "original": "espn",
+      "scrambled": "ensp",
+      "qr_code_path": "qr_codes/TV_Channels_espn.png"
+    },
+    {
+      "original": "hbo",
+      "scrambled": "hob",
+      "qr_code_path": "qr_codes/TV_Channels_hbo.png"
+    },
+    {
+      "original": "cnn",
+      "scrambled": "cnn",
+      "qr_code_path": "qr_codes/TV_Channels_cnn.png"
+    },
+    {
+      "original": "mtv",
+      "scrambled": "mvt",
+      "qr_code_path": "qr_codes/TV_Channels_mtv.png"
+    },
+    {
+      "original": "disney",
+      "scrambled": "dinsey",
+      "qr_code_path": "qr_codes/TV_Channels_disney.png"
+    },
+    {
+      "original": "nick",
+      "scrambled": "nkci",
+      "qr_code_path": "qr_codes/TV_Channels_nick.png"
+    },
+    {
+      "original": "fox",
+      "scrambled": "fxo",
+      "qr_code_path": "qr_codes/TV_Channels_fox.png"
+    },
+    {
+      "original": "bet",
+      "scrambled": "bte",
+      "qr_code_path": "qr_codes/TV_Channels_bet.png"
+    },
+    {
+      "original": "abc",
+      "scrambled": "acb",
+      "qr_code_path": "qr_codes/TV_Channels_abc.png"
+    },
+    {
+      "original": "nbc",
+      "scrambled": "ncb",
+      "qr_code_path": "qr_codes/TV_Channels_nbc.png"
+    }
+  ],
+  "90s Rap and R&B Artists": [
+    {
+      "original": "tupac",
+      "scrambled": "tuapc",
+      "qr_code_path": "qr_codes/90s_Rap_and_R&B_Artists_tupac.png"
+    },
+    {
+      "original": "snoop",
+      "scrambled": "sopno",
+      "qr_code_path": "qr_codes/90s_Rap_and_R&B_Artists_snoop.png"
+    },
+    {
+      "original": "aaliyah",
+      "scrambled": "aiahaly",
+      "qr_code_path": "qr_codes/90s_Rap_and_R&B_Artists_aaliyah.png"
+    },
+    {
+      "original": "tlc",
+      "scrambled": "tcl",
+      "qr_code_path": "qr_codes/90s_Rap_and_R&B_Artists_tlc.png"
+    },
+    {
+      "original": "brandy",
+      "scrambled": "brdyan",
+      "qr_code_path": "qr_codes/90s_Rap_and_R&B_Artists_brandy.png"
+    },
+    {
+      "original": "usher",
+      "scrambled": "usehr",
+      "qr_code_path": "qr_codes/90s_Rap_and_R&B_Artists_usher.png"
+    },
+    {
+      "original": "monica",
+      "scrambled": "mniaoc",
+      "qr_code_path": "qr_codes/90s_Rap_and_R&B_Artists_monica.png"
+    },
+    {
+      "original": "dre",
+      "scrambled": "der",
+      "qr_code_path": "qr_codes/90s_Rap_and_R&B_Artists_dre.png"
+    },
+    {
+      "original": "biggie",
+      "scrambled": "bigegi",
+      "qr_code_path": "qr_codes/90s_Rap_and_R&B_Artists_biggie.png"
+    },
+    {
+      "original": "jayz",
+      "scrambled": "jyza",
+      "qr_code_path": "qr_codes/90s_Rap_and_R&B_Artists_jayz.png"
+    }
+  ]
+}
